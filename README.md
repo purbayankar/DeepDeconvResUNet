@@ -8,7 +8,7 @@ Network deconvolution Paper: https://arxiv.org/pdf/1905.11926.pdf
 The data used in this work can be requested by sending an email to lpsoares@usp.br <br/>
 Data preprocessing has been done according to this repository https://github.com/lpsmlgeobr/Landslide_segmentation_with_unet
 
-## Architecture
+## Residual UNet Architecture
 | ![Deep Residual U-Net Architecture](arch.png) |
 | :--: |
 | *Deep Residual U-Net Architecture* |
